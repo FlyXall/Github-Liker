@@ -8,5 +8,5 @@
 <h2>Description</h2>
 <p><strong>A program that puts stars on a repository</p>
 </ol>
-<a href="">
+<a href="https://github.com/FlyXall/Github-Liker/releases/tag/DOWNLOAD">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
